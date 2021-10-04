@@ -1,4 +1,4 @@
-# Python-Crypter
-All-time Fully Undetectable Malware Creator!
+# iiCryptis-v1
+Créateur de malware totalement indétectable !
 
-To create an executable, both in linux and windows you can use "Pyinstaller".
+Pour créer un exécutable, aussi bien sous linux que sous windows, vous pouvez utiliser "Pyinstaller".
